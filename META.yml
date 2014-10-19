@@ -16,7 +16,7 @@ name: Log-Reproducible
 provides:
   Log::Reproducible:
     file: lib/Log/Reproducible.pm
-    version: v0.12.1
+    version: v0.12.0
 recommends:
   Devel::Cover: '0'
   Module::Loaded: '0'
@@ -35,4 +35,4 @@ requires:
 resources:
   license: http://dev.perl.org/licenses/
   repository: https://github.com/mfcovington/Log-Reproducible
-version: v0.12.1
+version: v0.12.0
